@@ -20,8 +20,8 @@ This repo uses [@wordpress/env](https://github.com/WordPress/gutenberg/tree/HEAD
 
 #### Other Commands
 
--   Stop WordPress: `wp-env stop`
 -   Start watch task: `npm run start`
+-   Stop WordPress: `wp-env stop`
 -   Build assets: `npm run build`
 
 ### Local Site Details

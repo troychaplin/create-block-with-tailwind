@@ -1,17 +1,17 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
-	"name": "create-block/create-block-with-tailwind",
+	"name": "create-block/tailwind-block",
 	"version": "0.1.0",
-	"title": "Create Block With Tailwind",
-	"category": "widgets",
+	"title": "Tailwind Block",
+	"category": "text",
 	"icon": "smiley",
-	"description": "Example block scaffolded with Create Block tool.",
+	"description": "Example block scaffolded with Create Block tool with Tailwind integration.",
 	"example": {},
 	"supports": {
 		"html": false
 	},
-	"textdomain": "create-block-with-tailwind",
+	"textdomain": "tailwind-block",
 	"editorScript": "file:./index.js",
 	"editorStyle": "file:./index.css",
 	"style": "file:./style-index.css",
