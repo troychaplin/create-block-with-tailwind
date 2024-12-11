@@ -1,3 +1,7 @@
+// @tailwind base;
+// @tailwind components;
+// @tailwind utilities;
+
 /**
  * The following styles get applied both on the front of your site
  * and in the editor.
@@ -6,7 +10,8 @@
  */
 
 .wp-block-create-block-create-block-with-tailwind {
-	background-color: #21759b;
-	color: #fff;
-	padding: 2px;
+	// background-color: #21759b;
+	// color: #fff;
+	// padding: 2px;
+	@apply bg-blue-600 text-white p-2;
 }

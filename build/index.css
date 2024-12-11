@@ -1,1 +1,6 @@
-.wp-block-create-block-create-block-with-tailwind{border:1px dotted red}
+.wp-block-create-block-create-block-with-tailwind {
+    border-width: 2px;
+    border-style: dotted;
+    --tw-border-opacity: 1;
+    border-color: rgb(220 38 38 / var(--tw-border-opacity, 1))
+}
